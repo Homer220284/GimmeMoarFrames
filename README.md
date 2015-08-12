@@ -31,7 +31,7 @@ The **easiest way** to use this advantage is the following (using a tool):
 - download a little command line tool from here (use 'RAW' button for dl):     
 [https://github.com/fred41/GimmeMoarFrames/blob/master/GimmeMoarFrames/LPManager.exe](https://github.com/fred41/GimmeMoarFrames/blob/master/GimmeMoarFrames/LPManager.exe)      
 
-- execute LPManager.exe via 'Run as administrator' and type your useraccountname in the little box (on the right from 'Privilege' button)     
+- execute LPManager.exe (in A3 root folder) via 'Run as administrator' and type your useraccountname in the little box (on the right from 'Privilege' button)     
 
 - click 'Privilege' button    
 
